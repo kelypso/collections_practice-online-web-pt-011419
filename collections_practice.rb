@@ -21,9 +21,10 @@ def kesha_maker(array)
   i = 0
   array = []
   while i < array.length
-    array <<
+    array << 
     i += 1
   end
+  array
 end
 
 def find_a(array)
