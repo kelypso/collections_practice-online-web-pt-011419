@@ -18,7 +18,8 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  i = 0 
+  i = 0
+  array = []
   while i < array.length
     i += 1
   end
