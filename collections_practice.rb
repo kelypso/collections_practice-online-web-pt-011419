@@ -20,6 +20,8 @@ end
 def kesha_maker(array)
   i = 0 
   while i < array.length
+    
+  end
 end
 
 def find_a(array)
