@@ -18,13 +18,9 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  i = 0
-  array = []
-  while i < array.length
-    array << 
-    i += 1
-  end
-  array
+  new_array = []
+  array.each { |element| new_array << 
+  new_array
 end
 
 def find_a(array)
