@@ -21,6 +21,7 @@ def kesha_maker(array)
   i = 0
   array = []
   while i < array.length
+    array <<
     i += 1
   end
 end
